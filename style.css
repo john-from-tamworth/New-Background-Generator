@@ -1,4 +1,5 @@
 body {
+    font-family: 'Bangers', cursive;
 	font: 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
@@ -9,7 +10,8 @@ body {
 }
 
 h1 {
-    font: 600 3.5em 'Raleway', sans-serif;
+    font-family: 'Bangers', cursive;
+    font: 600 3.5em /*'Raleway', sans-serif;*/
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
@@ -18,6 +20,7 @@ h1 {
 }
 
 h3 {
+    font-family: 'Bangers', cursive;
 	font: 900 1em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
